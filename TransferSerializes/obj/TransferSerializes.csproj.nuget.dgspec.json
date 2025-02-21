@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\TransferSerializes\\TransferSerializes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\DrxTransfer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\DrxTransfer.csproj",
+        "projectName": "DrxTransfer",
+        "projectPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\DrxTransfer.csproj",
+        "packagesPath": "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DotNetDeveloper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "ConfigSettings": {
+              "target": "Package",
+              "version": "[1.0.12, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Simple.OData.Client": {
+              "target": "Package",
+              "version": "[5.26.0, )"
+            },
+            "System.CommandLine": {
+              "target": "Package",
+              "version": "[2.0.0-beta1.20574.7, )"
+            },
+            "System.ComponentModel.Composition": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\TransferSerializes\\TransferSerializes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\TransferSerializes\\TransferSerializes.csproj",
+        "projectName": "TransferSerializes",
+        "projectPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\TransferSerializes\\TransferSerializes.csproj",
+        "packagesPath": "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\TransferSerializes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DotNetDeveloper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\DrxTransfer.csproj": {
+                "projectPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\DrxTransfer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

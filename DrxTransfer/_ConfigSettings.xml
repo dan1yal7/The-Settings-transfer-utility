@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <var name="LOGS_PATH" value="D:\DevelopWindowsServer\dir-data/logs"/>
+  <var name="INTEGRATION_SERVICE_URL" value="http://localhost:80/Integration/odata"/>
+  <block name="CREDENTIALS">
+    <credentials name="Default" login="Integration Service" password="Qwerty@12345678"/>
+  </block>
+  <meta name="FORCE_USE_APPDATA_PATH" value="True"/>
+</settings>
