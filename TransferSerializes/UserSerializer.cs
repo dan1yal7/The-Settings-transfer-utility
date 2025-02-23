@@ -8,19 +8,19 @@ using DrxTransfer.IntegrationServicesClient;
 namespace TransferSerializes
 {
     [Export(typeof(SungeroSerializer))]
-    public class JobSerializer : SungeroSerializer
+    public class UserSerializer : SungeroSerializer
     {
-        public JobSerializer()
+        public UserSerializer()
         {
-            this.EntityName = "Job";
-            this.EntityType = "IJobTitles";
+            this.EntityName = "User";
+            this.EntityType = "IUsers";
         }
-
         protected override IEnumerable<dynamic> Export()
         {
-            return IntegrationServiceClient.Instance.For<IJobTitles>()
-                .Filter(j => j.Status == "Active")
-                .FindEntriesAsync().Result;
+            return IntegrationServiceClient.Instance.For<IUsers>()
+                .Filter(u => u.Status == "Active")
+                .FindEntriesAsync()
+                .Result;
         }
     }
 }
