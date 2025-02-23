@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\DrxTransfer.csproj": {}
+    "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\DrxTransfer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\DrxTransfer.csproj": {
+    "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\DrxTransfer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\DrxTransfer.csproj",
+        "projectUniqueName": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\DrxTransfer.csproj",
         "projectName": "DrxTransfer",
-        "projectPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\DrxTransfer.csproj",
+        "projectPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\DrxTransfer.csproj",
         "packagesPath": "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\obj\\",
+        "outputPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.3, )"
+              "version": "[13.0.3, )"
             },
             "Simple.OData.Client": {
               "target": "Package",

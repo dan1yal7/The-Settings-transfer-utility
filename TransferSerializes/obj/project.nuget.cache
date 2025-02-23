@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gm0fj0mMf7Q=",
+  "dgSpecHash": "LnGtDrQ8vyQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\TransferSerializes\\TransferSerializes.csproj",
+  "projectFilePath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\TransferSerializes\\TransferSerializes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\configsettings\\1.0.12\\configsettings.1.0.12.nupkg.sha512",
     "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
@@ -12,7 +12,7 @@
     "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\microsoft.odata.core\\7.9.4\\microsoft.odata.core.7.9.4.nupkg.sha512",
     "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\microsoft.odata.edm\\7.9.4\\microsoft.odata.edm.7.9.4.nupkg.sha512",
     "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\microsoft.spatial\\7.9.4\\microsoft.spatial.7.9.4.nupkg.sha512",
-    "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\nlog\\5.0.0\\nlog.5.0.0.nupkg.sha512",
     "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\simple.odata.client\\5.26.0\\simple.odata.client.5.26.0.nupkg.sha512",
     "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\system.commandline\\2.0.0-beta1.20574.7\\system.commandline.2.0.0-beta1.20574.7.nupkg.sha512",

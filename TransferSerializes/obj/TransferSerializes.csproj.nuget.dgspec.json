@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\TransferSerializes\\TransferSerializes.csproj": {}
+    "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\TransferSerializes\\TransferSerializes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\DrxTransfer.csproj": {
+    "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\DrxTransfer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\DrxTransfer.csproj",
+        "projectUniqueName": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\DrxTransfer.csproj",
         "projectName": "DrxTransfer",
-        "projectPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\DrxTransfer.csproj",
+        "projectPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\DrxTransfer.csproj",
         "packagesPath": "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\obj\\",
+        "outputPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.3, )"
+              "version": "[13.0.3, )"
             },
             "Simple.OData.Client": {
               "target": "Package",
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\TransferSerializes\\TransferSerializes.csproj": {
+    "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\TransferSerializes\\TransferSerializes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\TransferSerializes\\TransferSerializes.csproj",
+        "projectUniqueName": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\TransferSerializes\\TransferSerializes.csproj",
         "projectName": "TransferSerializes",
-        "projectPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\TransferSerializes\\TransferSerializes.csproj",
+        "projectPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\TransferSerializes\\TransferSerializes.csproj",
         "packagesPath": "C:\\Users\\DotNetDeveloper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\TransferSerializes\\obj\\",
+        "outputPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\TransferSerializes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -123,8 +123,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\DrxTransfer.csproj": {
-                "projectPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\DrxTransfer.csproj"
+              "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\DrxTransfer.csproj": {
+                "projectPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\DrxTransfer.csproj"
               }
             }
           }
@@ -144,6 +144,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

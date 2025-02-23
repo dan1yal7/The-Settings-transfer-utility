@@ -1,18 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\",
+  "WorkspaceRootPath": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{160424E2-C322-44A4-9B4E-F561F62CC303}|DrxTransfer\\DrxTransfer.csproj|c:\\users\\dotnetdeveloper\\the-settings-transfer-utility\\rx-util-transfer-net-core\\drxtransfer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{86DB1F9D-E960-41B4-B637-E4B98889739B}|TransferSerializes\\TransferSerializes.csproj|c:\\users\\dotnetdeveloper\\the-settings-transfer-utility\\transferserializes\\jobserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DB1F9D-E960-41B4-B637-E4B98889739B}|TransferSerializes\\TransferSerializes.csproj|solutionrelative:transferserializes\\jobserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160424E2-C322-44A4-9B4E-F561F62CC303}|DrxTransfer\\DrxTransfer.csproj|c:\\users\\dotnetdeveloper\\the-settings-transfer-utility\\drxtransfer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{160424E2-C322-44A4-9B4E-F561F62CC303}|DrxTransfer\\DrxTransfer.csproj|solutionrelative:drxtransfer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86DB1F9D-E960-41B4-B637-E4B98889739B}|TransferSerializes\\TransferSerializes.csproj|c:\\users\\dotnetdeveloper\\the-settings-transfer-utility\\rx-util-transfer-net-core\\transferserializes\\departmentserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86DB1F9D-E960-41B4-B637-E4B98889739B}|TransferSerializes\\TransferSerializes.csproj|solutionrelative:transferserializes\\departmentserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86DB1F9D-E960-41B4-B637-E4B98889739B}|TransferSerializes\\TransferSerializes.csproj|c:\\users\\dotnetdeveloper\\the-settings-transfer-utility\\transferserializes\\employeeserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DB1F9D-E960-41B4-B637-E4B98889739B}|TransferSerializes\\TransferSerializes.csproj|solutionrelative:transferserializes\\employeeserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{160424E2-C322-44A4-9B4E-F561F62CC303}|DrxTransfer\\DrxTransfer.csproj|c:\\users\\dotnetdeveloper\\the-settings-transfer-utility\\rx-util-transfer-net-core\\drxtransfer\\models\\ijobtitles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{160424E2-C322-44A4-9B4E-F561F62CC303}|DrxTransfer\\DrxTransfer.csproj|solutionrelative:drxtransfer\\models\\ijobtitles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86DB1F9D-E960-41B4-B637-E4B98889739B}|TransferSerializes\\TransferSerializes.csproj|c:\\users\\dotnetdeveloper\\the-settings-transfer-utility\\transferserializes\\transferserializes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86DB1F9D-E960-41B4-B637-E4B98889739B}|TransferSerializes\\TransferSerializes.csproj|solutionrelative:transferserializes\\transferserializes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160424E2-C322-44A4-9B4E-F561F62CC303}|DrxTransfer\\DrxTransfer.csproj|c:\\users\\dotnetdeveloper\\the-settings-transfer-utility\\drxtransfer\\models\\idepartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160424E2-C322-44A4-9B4E-F561F62CC303}|DrxTransfer\\DrxTransfer.csproj|solutionrelative:drxtransfer\\models\\idepartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160424E2-C322-44A4-9B4E-F561F62CC303}|DrxTransfer\\DrxTransfer.csproj|c:\\users\\dotnetdeveloper\\the-settings-transfer-utility\\drxtransfer\\models\\iregistrationgroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160424E2-C322-44A4-9B4E-F561F62CC303}|DrxTransfer\\DrxTransfer.csproj|solutionrelative:drxtransfer\\models\\iregistrationgroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160424E2-C322-44A4-9B4E-F561F62CC303}|DrxTransfer\\DrxTransfer.csproj|c:\\users\\dotnetdeveloper\\the-settings-transfer-utility\\drxtransfer\\drxtransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160424E2-C322-44A4-9B4E-F561F62CC303}|DrxTransfer\\DrxTransfer.csproj|solutionrelative:drxtransfer\\drxtransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,44 +37,98 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 246,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 295,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransferSerializes",
+              "DocumentMoniker": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\TransferSerializes\\TransferSerializes.csproj",
+              "RelativeDocumentMoniker": "TransferSerializes\\TransferSerializes.csproj",
+              "ToolTip": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\TransferSerializes\\TransferSerializes.csproj",
+              "RelativeToolTip": "TransferSerializes\\TransferSerializes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T16:00:27.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IJobTitles.cs",
-              "DocumentMoniker": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\Models\\IJobTitles.cs",
-              "RelativeDocumentMoniker": "DrxTransfer\\Models\\IJobTitles.cs",
-              "ToolTip": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\Models\\IJobTitles.cs",
-              "RelativeToolTip": "DrxTransfer\\Models\\IJobTitles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "EmployeeSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\TransferSerializes\\EmployeeSerializer.cs",
+              "RelativeDocumentMoniker": "TransferSerializes\\EmployeeSerializer.cs",
+              "ToolTip": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\TransferSerializes\\EmployeeSerializer.cs",
+              "RelativeToolTip": "TransferSerializes\\EmployeeSerializer.cs",
+              "ViewState": "AgIAAAgAAABgMzMzM/MmwBMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T18:26:24.397Z"
+              "WhenOpened": "2025-02-23T15:46:51.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DepartmentSerializer.cs",
-              "DocumentMoniker": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\TransferSerializes\\DepartmentSerializer.cs",
-              "RelativeDocumentMoniker": "TransferSerializes\\DepartmentSerializer.cs",
-              "ToolTip": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\TransferSerializes\\DepartmentSerializer.cs",
-              "RelativeToolTip": "TransferSerializes\\DepartmentSerializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DrxTransfer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DrxTransfer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T15:21:35.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRegistrationGroups.cs",
+              "DocumentMoniker": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\Models\\IRegistrationGroups.cs",
+              "RelativeDocumentMoniker": "DrxTransfer\\Models\\IRegistrationGroups.cs",
+              "ToolTip": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\Models\\IRegistrationGroups.cs",
+              "RelativeToolTip": "DrxTransfer\\Models\\IRegistrationGroups.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T18:13:00.486Z"
+              "WhenOpened": "2025-02-23T15:37:54.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDepartments.cs",
+              "DocumentMoniker": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\Models\\IDepartments.cs",
+              "RelativeDocumentMoniker": "DrxTransfer\\Models\\IDepartments.cs",
+              "ToolTip": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\Models\\IDepartments.cs",
+              "RelativeToolTip": "DrxTransfer\\Models\\IDepartments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:40:42.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "DrxTransfer\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\rx-util-transfer-net-core\\DrxTransfer\\Properties\\launchSettings.json",
-              "RelativeToolTip": "DrxTransfer\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-21T18:10:49.941Z",
+              "Title": "JobSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\TransferSerializes\\JobSerializer.cs",
+              "RelativeDocumentMoniker": "TransferSerializes\\JobSerializer.cs",
+              "ToolTip": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\TransferSerializes\\JobSerializer.cs",
+              "RelativeToolTip": "TransferSerializes\\JobSerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:27:24.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DrxTransfer.cs",
+              "DocumentMoniker": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\DrxTransfer.cs",
+              "RelativeDocumentMoniker": "DrxTransfer\\DrxTransfer.cs",
+              "ToolTip": "C:\\Users\\DotNetDeveloper\\The-Settings-transfer-utility\\DrxTransfer\\DrxTransfer.cs",
+              "RelativeToolTip": "DrxTransfer\\DrxTransfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:56:44.296Z",
               "EditorCaption": ""
             }
           ]
